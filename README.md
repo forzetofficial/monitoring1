@@ -13,7 +13,8 @@ node_filesystem_avail_bytes{mountpoint="/etc/hostname"} / 1024 / 1024 / 1024 - �
 
 ###Задание 3
 
-![img](img/img3.png)
+![img](img/img3.png)  
+![img](img/img4.png)
 
 ###Задание 4
 
